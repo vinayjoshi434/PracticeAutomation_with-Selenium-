@@ -28,15 +28,15 @@ PracticeAutomation/
 │   │   ├── java/
 │   │   │   ├── factory/     # Driver initialization & setup
 │   │   │   ├── PageObject/  # Page classes (POM structure)
-│   │   │   ├── service/     # Action-level logic / business flows
-│   │   │   ├── util/        # Utilities (JSON reader, waits, screenshots)
+│   │   │   ├── service/     # Business logic / action layer
+│   │   │   ├── util/        # Utilities (JSON, waits, screenshots)
 │   │   │   ├── reports/     # Extent report setup
 │   │   │   ├── Executor.java
 │   │   │   └── PracticeExecutor.java
 │   │   │
 │   │   └── resources/
 │
-├── test/                    # Test classes (if used separately)
+├── test/                    # Test classes
 ├── target/                  # Build output (ignored in Git)
 ├── pom.xml                  # Maven configuration
 └── .gitignore
