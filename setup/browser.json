@@ -1,0 +1,7 @@
+{
+  "browser": "CHROME",
+  "loginURL": "https://practicetestautomation.com/practice-test-login/",
+  "practicePage_Url": "https://practicetestautomation.com/practice/",
+  "homePage_Url": "https://practicetestautomation.com"
+
+}
